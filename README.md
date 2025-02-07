@@ -30,5 +30,5 @@
 <img src="https://github.com/Spidy20/Streamlit_Bank_Loan_Prediction/blob/master/sc2.png">
 <img src="https://github.com/Spidy20/Streamlit_Bank_Loan_Prediction/blob/master/sc3.png">
 
-## Just follow☝️ me and Star⭐ my repository 
+
 
