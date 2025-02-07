@@ -10,7 +10,7 @@
 - Clone my repository.
 - Open CMD in working directory.
 - Run following command.
-
+.
   ```
   pip install -r requirements.txt
   ```
