@@ -24,11 +24,6 @@
 - `Loan_Data` contains the Dataset of this project.
 - For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
 
-## Screenshots
-
-<img src="https://github.com/Spidy20/Streamlit_Bank_Loan_Prediction/blob/master/sc1.png">
-<img src="https://github.com/Spidy20/Streamlit_Bank_Loan_Prediction/blob/master/sc2.png">
-<img src="https://github.com/Spidy20/Streamlit_Bank_Loan_Prediction/blob/master/sc3.png">
 
 
 
