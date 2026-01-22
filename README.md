@@ -22,7 +22,7 @@
   ```
 - `Str_Loan_ML.ipynb` is the notebook file of the Data pre-processing & ML
 - `Loan_Data` contains the Dataset of this project.
-- For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
+
 
 
 
