@@ -226,9 +226,6 @@ Recommended evaluation metrics include:
 | F1-score | Harmonic mean of precision and recall |
 | Confusion Matrix | Breakdown of correct and incorrect classifications |
 
-For a loan eligibility model, accuracy alone may not provide a complete picture. Precision, recall, class balance, and the consequences of incorrect predictions should also be considered.
-
-**Important:** Add the actual model name, test-set scores, and evaluation visualizations after verifying the results. Do not report estimated or invented accuracy values.
 
 ## 🖥️ Usage
 
